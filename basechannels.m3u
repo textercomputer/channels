@@ -1,0 +1,87 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+
+#EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2192ea99-acab-475f-9761-615270547cd8/2.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+#EXTINF:-1 tvg-id="DDBharati.in@SD",DD Bharati (720p)
+https://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (720p)
+https://cdn-4.pishow.tv/live/35/master.m3u8
+
+#EXTINF:-1 tvg-id="DDChandana.in@SD",DD Chandana
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
+
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD",DD Chhattisgarh (720p)
+https://cdn-1.pishow.tv/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="DDGirnar.in@SD",DD Girnar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+
+#EXTINF:-1 tvg-id="DDGoa.in@SD",DD Goa (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+
+#EXTINF:-1 tvg-id="DDHaryana.in@SD",DD Haryana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD",DD Himachal Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD",DD Jharkhand
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+
+#EXTINF:-1 tvg-id="DDKashir.in@SD",DD Kashir (720p)
+https://cdn-6.pishow.tv/live/16/master.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (720p)
+https://cdn-6.pishow.tv/live/9/master.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD",DD Madhya Pradesh (720p)
+https://cdn-1.pishow.tv/live/31/master.m3u8
+
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD",DD Malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+
+#EXTINF:-1 tvg-id="DDManipur.in@SD",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMizoram.in@SD",DD Mizoram (504p)
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/22ee1f87-4ac9-4d6b-9ec4-d5287739b4b4/2.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in@SD",DD Nagaland (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in@HD",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNews.in@SD",DD News (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 tvg-id="DDOdia.in@SD",DD Odia (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+
+#EXTINF:-1 tvg-id="DDPodhigai.in@SD",DD Podhigai
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8
+
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD",DD Punjabi
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD",DD Rajasthan (720p)
+https://cdn-1.pishow.tv/live/34/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c
