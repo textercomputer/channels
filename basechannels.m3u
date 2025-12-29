@@ -1,31 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" group-title="Science",NASA TV Public
+#EXTINF:-1, NASA TV Public
 https://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8
 
-#EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW English" group-title="News",DW English
+#EXTINF:-1, DW English
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
-https://live-bloomberg.tubi.video/live/bloomberg.m3u8
-
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="Red Bull TV" group-title="Sports",Red Bull TV
+#EXTINF:-1, Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="France24English" tvg-name="France 24 English" group-title="News",France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHK World" group-title="News",NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="News",CGTN English
-https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="RTDoc" tvg-name="RT Documentary" group-title="Documentary",RT Documentary
-https://rt-doc.secure.footprint.net/live/rt-doc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang TV" group-title="Culture",Arirang TV
-https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
